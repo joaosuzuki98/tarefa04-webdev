@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/joaosuzuki98/tarefa04-webdev-front.git
+[submodule "back"]
+	path = back
+	url = https://github.com/joaosuzuki98/tarefa04-webdev-back.git
